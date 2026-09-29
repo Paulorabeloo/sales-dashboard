@@ -1,5 +1,4 @@
 https://github.com/user-attachments/assets/0b3acc28-ef16-40c6-bbf9-a7f5f02e8024
-Uploading dash.mp4…
 
 # Sales Dashboard
 
