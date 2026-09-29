@@ -23,7 +23,7 @@ export default async function ProtectedLayout({
     <div className="flex min-h-screen bg-background">
       <aside className="sticky top-0 hidden h-screen w-56 flex-shrink-0 flex-col border-r border-border bg-surface lg:flex">
         <div className="border-b border-border px-5 py-4">
-          <div className="text-base font-semibold tracking-tight">Dashboard IBN</div>
+          <div className="text-base font-semibold tracking-tight">Dashboard de Vendas</div>
           <div className="mt-0.5 text-[10px] uppercase tracking-[0.12em] text-muted-foreground">
             Matrículas
           </div>
@@ -46,7 +46,7 @@ export default async function ProtectedLayout({
 
       <div className="flex-1 overflow-x-hidden">
         <header className="flex items-center justify-between border-b border-border bg-surface px-4 py-3 lg:hidden">
-          <div className="text-sm font-semibold tracking-tight">Dashboard IBN</div>
+          <div className="text-sm font-semibold tracking-tight">Dashboard de Vendas</div>
           <div className="flex items-center gap-3 text-xs">
             <span className="tabular text-muted-foreground">{masked}</span>
             <form action={handleSignOut}>

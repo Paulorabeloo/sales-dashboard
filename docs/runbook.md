@@ -1,4 +1,4 @@
-# Runbook — Dashboard IBN
+# Runbook — Dashboard de Vendas
 
 Procedimentos operacionais para solo dev. Rodar de cabeça quando necessário.
 

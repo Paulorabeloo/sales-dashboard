@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/13aa1f20-84fe-4b1e-99c8-8ffda93a842f
 
-# IBN Sales Dashboard
+# Sales Dashboard
 
 Internal web dashboard that replaced a legacy BI tool. It turns a Google Sheets
 operation into 13 decision-oriented KPIs, each one answering a question a manager
@@ -75,7 +75,7 @@ Operational procedures are documented in [`docs/runbook.md`](docs/runbook.md).
 
 ---
 
-# Dashboard de Vendas IBN
+# Dashboard de Vendas
 
 Dashboard web interno que substituiu uma ferramenta de BI legada. Ele transforma
 uma operação rodando em Google Sheets em 13 KPIs orientados à decisão, cada um

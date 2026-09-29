@@ -31,7 +31,7 @@ export default async function LoginPage({ searchParams }: LoginPageProps) {
     <main className="flex min-h-screen items-center justify-center px-6">
       <div className="w-full max-w-sm space-y-6 rounded-lg border border-border p-8">
         <header className="space-y-1">
-          <h1 className="text-xl font-semibold tracking-tight">Dashboard IBN</h1>
+          <h1 className="text-xl font-semibold tracking-tight">Dashboard de Vendas</h1>
           <p className="text-sm text-muted-foreground">
             Acesso restrito a gestores. Entre com a conta Google autorizada.
           </p>

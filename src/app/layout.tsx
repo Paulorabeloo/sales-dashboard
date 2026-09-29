@@ -17,7 +17,7 @@ const jbMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Dashboard IBN',
+  title: 'Dashboard de Vendas',
   description: 'Dashboard interno de matrículas — uso restrito a gestores autorizados.',
   robots: { index: false, follow: false, nocache: true },
 };

@@ -233,7 +233,7 @@ async function main() {
 
   // Markdown report
   const lines: string[] = [];
-  lines.push('# Análise — Matrículas IBN');
+  lines.push('# Análise — Matrículas');
   lines.push('');
   lines.push(`_Gerado em ${new Date().toLocaleString('pt-BR')}_`);
   lines.push('');

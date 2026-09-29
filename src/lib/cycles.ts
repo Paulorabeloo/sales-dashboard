@@ -1,7 +1,7 @@
 import type { Ciclo } from '@/types/domain';
 
 /*
- * T-108 — Tabela de ciclos acadêmicos da IBN.
+ * T-108 — Tabela de ciclos acadêmicos.
  *
  * ADR-006: ciclos vivem em código (não em DB nem env var). Para adicionar
  * um novo ciclo, edite o array abaixo e faça push em git.

@@ -1,8 +1,8 @@
 {
-  "name": "dashboard-ibn",
+  "name": "sales-dashboard",
   "version": "0.1.0",
   "private": true,
-  "description": "Dashboard interno de matrículas IBN — substitui Looker, lê Google Sheets via API com cache server-side.",
+  "description": "Dashboard interno de matrículas — substitui Looker, lê Google Sheets via API com cache server-side.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
